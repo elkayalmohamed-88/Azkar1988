@@ -1,0 +1,16 @@
+{
+  "name": "أذكاري",
+  "short_name": "أذكاري",
+  "lang": "ar",
+  "dir": "rtl",
+  "description": "مسبحة وأذكار يومية تعمل دون اتصال بالإنترنت",
+  "start_url": "./Azkari_PWA_v7.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1f1a",
+  "theme_color": "#00d68f",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
